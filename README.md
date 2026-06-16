@@ -1,16 +1,39 @@
-## Hi there 👋
+# Neus Perez-Gimeno
 
-<!--
-**neuspergim/neuspergim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Español
 
-Here are some ideas to get you started:
+Investigación y proyectos relacionados con la acústica submarina, los paisajes
+sonoros marinos, la conservación y la divulgación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos
+
+- **Posidonia Soundscapes**: paisajes sonoros asociados a praderas de
+  *Posidonia oceanica*. Repositorio en preparación.
+- **La Caleta**: proyecto de paisaje sonoro y hábitat costero asociado a pozas
+  intermareales. Repositorio en preparación.
+- **Estrecho de Gibraltar**: acústica submarina, cetáceos y ruido antropogénico.
+  Repositorio en preparación.
+
+## English
+
+Research and projects related to underwater acoustics, marine soundscapes,
+conservation, and public outreach.
+
+### Projects
+
+- **Posidonia Soundscapes**: soundscapes associated with *Posidonia oceanica*
+  seagrass meadows. Repository under development.
+- **La Caleta**: coastal habitat and soundscape project focused on intertidal
+  pools. Repository under development.
+- **Strait of Gibraltar**: underwater acoustics, cetaceans, and anthropogenic
+  noise. Repository under development.
+
+## Colaboraciones / Collaborations
+
+- [SEANIMALMOVE](https://github.com/SEANIMALMOVE)
+
+## Contacto / Contact
+
+[Instituto Universitario de Investigación Marina (INMAR), Universidad de Cádiz](https://inmar.uca.es/servicio-de-acustica-submarina/)
+
+[servicioacustica.inmar@uca.es](mailto:servicioacustica.inmar@uca.es)
