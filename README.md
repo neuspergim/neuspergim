@@ -5,7 +5,7 @@
 Investigación y proyectos relacionados con la acústica submarina, los paisajes
 sonoros marinos, la conservación y la divulgación.
 
-### Proyectos
+### Proyectos actuales
 
 - **Posidonia Soundscapes: Conservation & Music, Ibiza**: paisajes sonoros
   asociados a praderas de *Posidonia oceanica* y al arte.
@@ -22,7 +22,7 @@ sonoros marinos, la conservación y la divulgación.
 Research and projects related to underwater acoustics, marine soundscapes,
 conservation, and public outreach.
 
-### Projects
+### Current projects
 
 - **Posidonia Soundscapes: Conservation & Music, Ibiza**: soundscapes associated
   with *Posidonia oceanica* seagrass meadows and art.
