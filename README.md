@@ -1,5 +1,10 @@
 # Neus Perez-Gimeno
 
+<p align="center">
+  <img src="assets/profile-inmar-university.jpeg" width="520" alt="Neus Perez-Gimeno during marine fieldwork for INMAR - University of Cádiz">
+</p>
+<p align="center"><sub>Photo: INMAR - University of Cádiz.</sub></p>
+
 ## Español
 
 Investigación y proyectos relacionados con la acústica submarina, los paisajes
@@ -33,6 +38,13 @@ conservation, and public outreach.
 - **SEANIMALMOVE**: located in the Strait of Gibraltar. Underwater acoustics,
   cetaceans, and anthropogenic noise.
   [Repository](https://github.com/neuspergim/strait-of-gibraltar-soundscape).
+
+## Trabajo de campo / Fieldwork
+
+| Offshore fieldwork | Underwater acoustic deployment |
+|---|---|
+| ![Researchers preparing equipment during offshore fieldwork](assets/offshore-fieldwork.jpg) | ![Underwater acoustic monitoring equipment deployed on the seabed](assets/sylence-deployment.jpeg) |
+| INMAR - University of Cádiz | INMAR - University of Cádiz |
 
 ## Colaboraciones / Collaborations
 
