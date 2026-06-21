@@ -7,12 +7,15 @@ sonoros marinos, la conservación y la divulgación.
 
 ### Proyectos
 
-- **Posidonia Soundscapes**: paisajes sonoros asociados a praderas de
-  *Posidonia oceanica*. Repositorio en preparación.
-- **La Caleta**: proyecto de paisaje sonoro y hábitat costero asociado a pozas
-  intermareales. Repositorio en preparación.
-- **Estrecho de Gibraltar**: acústica submarina, cetáceos y ruido antropogénico.
-  Repositorio en preparación.
+- **Posidonia Soundscapes: Conservation & Music, Ibiza**: paisajes sonoros
+  asociados a praderas de *Posidonia oceanica* y al arte.
+  [Repositorio](https://github.com/neuspergim/posidonia-soundscapes).
+- **Pozas como refugios sonoros**: proyecto de paisaje sonoro y hábitat costero
+  asociado a pozas intermareales.
+  [Repositorio](https://github.com/neuspergim/la-caleta-soundscape).
+- **SEANIMALMOVE**: proyecto situado en el Estrecho de Gibraltar. Acústica
+  submarina, cetáceos y ruido antropogénico.
+  [Repositorio](https://github.com/neuspergim/strait-of-gibraltar-soundscape).
 
 ## English
 
@@ -21,12 +24,15 @@ conservation, and public outreach.
 
 ### Projects
 
-- **Posidonia Soundscapes**: soundscapes associated with *Posidonia oceanica*
-  seagrass meadows. Repository under development.
-- **La Caleta**: coastal habitat and soundscape project focused on intertidal
-  pools. Repository under development.
-- **Strait of Gibraltar**: underwater acoustics, cetaceans, and anthropogenic
-  noise. Repository under development.
+- **Posidonia Soundscapes: Conservation & Music, Ibiza**: soundscapes associated
+  with *Posidonia oceanica* seagrass meadows and art.
+  [Repository](https://github.com/neuspergim/posidonia-soundscapes).
+- **Rockpools as sound shelters**: coastal habitat and soundscape project focused
+  on intertidal pools.
+  [Repository](https://github.com/neuspergim/la-caleta-soundscape).
+- **SEANIMALMOVE**: located in the Strait of Gibraltar. Underwater acoustics,
+  cetaceans, and anthropogenic noise.
+  [Repository](https://github.com/neuspergim/strait-of-gibraltar-soundscape).
 
 ## Colaboraciones / Collaborations
 
