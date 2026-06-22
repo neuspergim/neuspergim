@@ -1,10 +1,5 @@
 # Neus Perez-Gimeno
 
-<p align="center">
-  <img src="assets/profile-inmar-university.jpeg" width="520" alt="Neus Perez-Gimeno during marine fieldwork for INMAR - University of Cádiz">
-</p>
-<p align="center"><sub>Photo: INMAR - University of Cádiz.</sub></p>
-
 ## Español
 
 Investigación y proyectos relacionados con la acústica submarina, los paisajes
@@ -55,3 +50,10 @@ conservation, and public outreach.
 [Instituto Universitario de Investigación Marina (INMAR), Universidad de Cádiz](https://inmar.uca.es/servicio-de-acustica-submarina/)
 
 [servicioacustica.inmar@uca.es](mailto:servicioacustica.inmar@uca.es)
+
+<p align="center">
+  <img src="assets/profile-inmar-university.jpeg" width="520" alt="Neus Perez-Gimeno during marine fieldwork for INMAR - University of Cádiz">
+</p>
+<p align="center"><sub>Photo: INMAR - University of Cádiz.</sub></p>
+
+
