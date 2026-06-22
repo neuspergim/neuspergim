@@ -51,9 +51,5 @@ conservation, and public outreach.
 
 [servicioacustica.inmar@uca.es](mailto:servicioacustica.inmar@uca.es)
 
-<p align="center">
-  <img src="assets/profile-inmar-university.jpeg" width="520" alt="Neus Perez-Gimeno during marine fieldwork for INMAR - University of Cádiz">
-</p>
-<p align="center"><sub>Photo: INMAR - University of Cádiz.</sub></p>
 
 
